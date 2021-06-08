@@ -1,6 +1,8 @@
 // twitter: @cwinfosec
 // "why does this keep launching command prompts????? LMAO????" 
 // shoutout: InfoSec Prep
+//
+// hint: C:\Users\bababooey\AppData\Local\Discord\app-1.0.9002\UIAutomationCore.DLL
 
 #include "pch.h"
 #include <stdio.h>
